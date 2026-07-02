@@ -1,0 +1,92 @@
+{
+  "question": "明天会不会下雨？",
+  "digits": [
+    7,
+    3
+  ],
+  "upper_number": 7,
+  "lower_number": 3,
+  "moving_line": 4,
+  "body": {
+    "name": "艮",
+    "element": "土",
+    "lines": [
+      0,
+      0,
+      1
+    ]
+  },
+  "use": {
+    "name": "离",
+    "element": "火",
+    "lines": [
+      1,
+      0,
+      1
+    ]
+  },
+  "relation": "用生体",
+  "verdict": "吉。外部条件对自己有助力，推进较顺。",
+  "primary": {
+    "name": "山火贲",
+    "upper": {
+      "number": 7,
+      "name": "艮",
+      "element": "土",
+      "lines": [
+        0,
+        0,
+        1
+      ]
+    },
+    "lower": {
+      "number": 3,
+      "name": "离",
+      "element": "火",
+      "lines": [
+        1,
+        0,
+        1
+      ]
+    },
+    "lines": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  "changed": {
+    "name": "离为火",
+    "upper": {
+      "number": 3,
+      "name": "离",
+      "element": "火",
+      "lines": [
+        1,
+        0,
+        1
+      ]
+    },
+    "lower": {
+      "number": 3,
+      "name": "离",
+      "element": "火",
+      "lines": [
+        1,
+        0,
+        1
+      ]
+    },
+    "lines": [
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ]
+  }
+}

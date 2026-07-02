@@ -1,0 +1,27 @@
+{
+  "name": "meihua-yishu",
+  "version": "0.1.0",
+  "description": "AI梅花易数 Codex 插件：用于梅花易数起卦、推演、教学图生成与结构化解读。",
+  "author": {
+    "name": "xuquangeo"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI梅花易数Codex插件",
+    "shortDescription": "按梅花易数起卦，并输出可校验的教学推演图。",
+    "longDescription": "一个可开源分享的本地 Codex 插件：把“问题 + 两位数字”转成确定性的梅花易数计算结果、校验报告与教学推演图，并支持可选美化层。",
+    "developerName": "xuquangeo",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "\u6309\u6885\u82b1\u6613\u6570\u5e2e\u6211\u8d77\u5366\uff0c\u5e76\u628a\u6bcf\u4e00\u6b65\u753b\u51fa\u6765\u3002",
+      "\u6211\u60f3\u5360\u4e00\u4ef6\u4e8b\uff0c\u6570\u5b57\u662f78\uff0c\u5e2e\u6211\u63a8\u6f14\u672c\u5366\u548c\u53d8\u5366\u3002",
+      "\u628a\u8fd9\u6b21\u6885\u82b1\u6613\u6570\u63a8\u6f14\u6574\u7406\u6210\u4e00\u4efd\u53ef\u8bfb\u62a5\u544a\u3002"
+    ],
+    "brandColor": "#8A5A2B"
+  }
+}
